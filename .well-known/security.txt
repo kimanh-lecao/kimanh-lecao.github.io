@@ -1,0 +1,8 @@
+# https://pages.lecao.org/.well-known/security.txt
+# RFC 9116. Update Expires at least annually — an expired file is ignored.
+
+Contact: mailto:security@lecao.org
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://pages.lecao.org/.well-known/security.txt
+Policy: https://github.com/kimanh-lecao/.github/blob/main/SECURITY.md
